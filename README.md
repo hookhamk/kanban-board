@@ -1,4 +1,4 @@
-# Mini-Project: Employee Tracker
+# Mini-Project: Kanban Board
 
 ## Description
 This project is a Kanban board with a secure login to manage personal work tasks.
@@ -28,12 +28,9 @@ THEN I am redirected to the login page
 WHEN I remain inactive for a defined period
 THEN my session expires, the JWT is invalidated, and I am redirected to the login page upon my next action
 
-
-## Installation
-To install this project, please download the files and then install the required npm packages, including Inquirer and pg.
-
 ## Usage
 The best way to use this project is through the deployed site (https://kanban-board-slug.onrender.com)
+
 ## Credits
 I have utilized the resources from edX Boot Camps LLC.
 
